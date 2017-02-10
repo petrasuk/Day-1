@@ -34,7 +34,7 @@ Tensorflow 설치방법
     
                pip install --upgrade pip
   5)Test
-  code:
+  code: enter python (typing python on cmd)
   
         import tensorflow as tf
         
