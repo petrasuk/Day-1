@@ -33,3 +33,15 @@ Tensorflow 설치방법
     -> typing:
     
                pip install --upgrade pip
+  5)Test
+  code:
+  
+        import tensorflow as tf
+        
+        hello = tf.constant("Hello, Tensorflow!")
+        
+        sess = tf.Session()
+        
+        print(sess.run(hello))
+        
+        
