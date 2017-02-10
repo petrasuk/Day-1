@@ -19,7 +19,8 @@ Tensorflow 설치방법
              or
              
              pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.1-cp35-cp35m-win_amd64.whl
-             
+ 
+ 
  4)Error
  
     if you have Cannot remove entries from nonexistent file d:\anaconda32\envs\tst\lib\site-packages\easy-install.pth
