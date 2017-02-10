@@ -27,7 +27,7 @@ Tensorflow 설치방법
  
  4)Error
  
-    if you have Cannot remove entries from nonexistent file d:\anaconda32\envs\tst\lib\site-packages\easy-install.pth
+    if you have Cannot remove entries from nonexistent file \anaconda32\envs\tst\lib\site-packages\easy-install.pth
     
     -> typing:
     
