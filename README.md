@@ -4,7 +4,7 @@ TTT 1일차 수업자료
 
 Tensorflow 설치방법
 
-1. Anaconda3 Tensorflow install
+1. Anaconda3 Tensorflow install  (install time : 20~40 min)
 
  1) Download and install Anaconda python3 (Windows OS is only use bit 64)  https://www.continuum.io/downloads
    
