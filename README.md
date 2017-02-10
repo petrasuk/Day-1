@@ -29,6 +29,7 @@ Tensorflow 설치방법
     
                pip install --upgrade --ignore-installed setuptools
     
-    not a supported wheel on this platform -> typing:
+    not a supported wheel on this platform
+    -> typing:
     
-                                                      pip install --upgrade pip
+               pip install --upgrade pip
