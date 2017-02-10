@@ -7,6 +7,8 @@ Tensorflow 설치방법
 1. Anaconda3 Tensorflow install
 
  1) Download and install Anaconda 3 (Windows OS is only use bit 64)  https://www.continuum.io/downloads
+   
+    if you install Anaconda 3 , please check - All user -
  
  2) open cmd
  
