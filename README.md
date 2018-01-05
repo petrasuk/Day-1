@@ -1,8 +1,11 @@
 # Day-1
 
+Most of the contents have been forked from other blogs and from the tensorflow tutorial of Parag K Mital
+
+https://github.com/pkmital
+
 git clone https://github.com/Clanatia/Day-1.git
 
-TTT 1일차 수업자료
 
 Tensorflow 설치방법
 
